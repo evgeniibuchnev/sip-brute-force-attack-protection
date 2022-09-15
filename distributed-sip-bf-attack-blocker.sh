@@ -1,5 +1,6 @@
 #!/bin/bash
 # Unified distributed brute force attack blocker (works on Elastix and FreePBX)
+# Just add it to the cron, I run it every min. (You'd need a daily log rotation for your asterisk full log)
 # version 0.99
 # by Evgenii Buchnev
 # 1. find configured extensions in FreePBX (if Ext is not configured in asterisk and we see a wrong password atempt in logs -> 99% it's a brute force attack)
