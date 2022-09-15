@@ -9,6 +9,8 @@ I managed to find a logical solution to block this from happening. Apart from lo
 
 Feedback, thoughts, improvements - welcome. Contact me for help. 
 
-GitHub repo
+GitHub repo for the solution: 
 https://github.com/evgeniibuchnev/sip-brute-force-attack-protection
 
+Forum thread:
+https://community.freepbx.org/t/distributed-sip-brute-force-attacks-protection-for-the-community/85607
